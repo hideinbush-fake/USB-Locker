@@ -1,0 +1,18 @@
+F:\myapp\USB Locker\USB Locker\bin\x86\Release\USB Locker.exe.config
+F:\myapp\USB Locker\USB Locker\obj\x86\Release\USB_Locker.Properties.Resources.resources
+F:\myapp\USB Locker\USB Locker\obj\x86\Release\USB Locker.csproj.GenerateResource.Cache
+F:\myapp\USB Locker\USB Locker\obj\x86\Release\USB_Locker.frmMain.resources
+F:\myapp\USB Locker\USB Locker\bin\x86\Release\USB Locker.exe
+F:\myapp\USB Locker\USB Locker\bin\x86\Release\USB Locker.pdb
+F:\myapp\USB Locker\USB Locker\obj\x86\Release\USB Locker.exe
+F:\myapp\USB Locker\USB Locker\obj\x86\Release\USB Locker.pdb
+F:\myapp\USB Locker\USB Locker\obj\x86\Release\USB_Locker.CheckForm.resources
+E:\myapp\USB Locker\USB Locker\bin\x86\Release\USB Locker.exe.config
+E:\myapp\USB Locker\USB Locker\obj\x86\Release\USB Locker.exe
+E:\myapp\USB Locker\USB Locker\obj\x86\Release\USB Locker.pdb
+E:\myapp\USB Locker\USB Locker\bin\x86\Release\USB Locker.exe
+E:\myapp\USB Locker\USB Locker\bin\x86\Release\USB Locker.pdb
+E:\myapp\USB Locker\USB Locker\obj\x86\Release\USB_Locker.CheckForm.resources
+E:\myapp\USB Locker\USB Locker\obj\x86\Release\USB_Locker.frmMain.resources
+E:\myapp\USB Locker\USB Locker\obj\x86\Release\USB_Locker.Properties.Resources.resources
+E:\myapp\USB Locker\USB Locker\obj\x86\Release\USB Locker.csproj.GenerateResource.Cache
